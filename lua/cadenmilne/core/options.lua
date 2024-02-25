@@ -28,3 +28,4 @@ opt.background = "dark" -- colorschemes that can be light or dark will be made d
 
 -- turn off swapfile
 opt.swapfile = false
+
